@@ -1,3 +1,3 @@
 Ramiro Fernandez
 
-archivo de prueba modulo2 - estados de archivos
+archivo de prueba modulo2 - estados de archivos en GIT
